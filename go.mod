@@ -1,4 +1,4 @@
-module sso
+module view-sso-proto
 
 go 1.21.5
 
