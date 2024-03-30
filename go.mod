@@ -1,4 +1,4 @@
-module view-sso-proto
+module github.com/ciobanudann/view-sso-proto
 
 go 1.21.5
 
